@@ -1,2 +1,2 @@
 # DynamicProxyExample
-Dynamic Proxy Example on Asp.Net Core using Castle Dynamic Proxy
+Dynamic Proxy Example on Asp.Net Core by Castle Dynamic Proxy
