@@ -1,0 +1,6 @@
+# IDEs and editors
+.vs/
+
+# bin and obj folders
+/DynamicProxyExample/bin
+/DynamicProxyExample/obj
